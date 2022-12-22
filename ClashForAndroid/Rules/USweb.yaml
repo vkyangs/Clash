@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN-KEYWORD,amazon
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,instagram
+  - DOMAIN-KEYWORD,twitter
+  - DOMAIN-KEYWORD,whatsapp
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,walmart.com
+  - DOMAIN-SUFFIX,ebay.com
+  - DOMAIN-SUFFIX,bestbuy.com
