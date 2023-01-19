@@ -4,7 +4,12 @@ HOST-KEYWORD,instagram,USweb
 HOST-KEYWORD,twitter,USweb
 HOST-KEYWORD,whatsapp,USweb
 HOST-KEYWORD,facebook,USweb
-HOST-SUFFIX,amazon.com,USweb
 HOST-SUFFIX,walmart.com,USweb
 HOST-SUFFIX,ebay.com,USweb
 HOST-SUFFIX,bestbuy.com,USweb
+HOST-SUFFIX,t-mobile.com,USweb
+HOST-SUFFIX,dropbox.com,USweb
+
+IP-CIDR,208.54.0.0/16,USweb
+IP-CIDR,66.94.0.0/19,USweb
+IP-CIDR,206.29.177.36/24,USweb
