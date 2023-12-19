@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,equifax.com
 DOMAIN-SUFFIX,experian.com
 DOMAIN-SUFFIX,transunion.com
 DOMAIN-SUFFIX,whatismyipaddress.com
+DOMAIN,us.hsbc.com
+DOMAIN-KEYWORD,ebay
