@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,asb.co.nz
 DOMAIN,weather-data.apple.com
 DOMAIN,weather-map2.apple.com
 DOMAIN,app-site-association.cdn-apple.com
+DOMAIN-KEYWORD,apps.apple.com
 DOMAIN-KEYWORD,itunes.apple.com
 DOMAIN-KEYWORD,itunes-apple.com.akadns.net
 IP-CIDR,208.54.0.0/16
