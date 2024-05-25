@@ -12,6 +12,7 @@ DOMAIN,app-site-association.cdn-apple.com
 DOMAIN-KEYWORD,apps.apple.com
 DOMAIN-KEYWORD,itunes.apple.com
 DOMAIN-KEYWORD,itunes-apple.com.akadns.net
+DOMAIN-KEYWORD,itunes
 IP-CIDR,208.54.0.0/16
 IP-CIDR,66.94.0.0/19
 IP-CIDR,206.29.177.36/24
