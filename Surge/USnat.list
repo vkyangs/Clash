@@ -1,3 +1,5 @@
+DOMAIN-KEYWORD,us.hsbc.com
+DOMAIN-KEYWORD,us1.hsbc.com
 DOMAIN-SUFFIX,americanexpress.com
 DOMAIN-SUFFIX,chase.com
 DOMAIN-SUFFIX,chasecdn.com
@@ -8,6 +10,5 @@ DOMAIN-SUFFIX,experian.com
 DOMAIN-SUFFIX,transunion.com
 DOMAIN-SUFFIX,whatismyipaddress.com
 DOMAIN-SUFFIX,ebay.com
-DOMAIN,us.hsbc.com
-DOMAIN-KEYWORD,ebay
+DOMAIN-SUFFIX,ebayimg.com
 DOMAIN-SUFFIX,buyhiltongiftcards.com
