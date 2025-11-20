@@ -1,9 +1,5 @@
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
-DOMAIN,appleid.apple.com
-DOMAIN,appleid.cdn-apple.com
-DOMAIN,gsa.apple.com
-DOMAIN,idmsa.apple.com
 DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-SUFFIX,walmart.com
 DOMAIN-SUFFIX,ebay.com
