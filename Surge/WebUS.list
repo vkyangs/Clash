@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-SUFFIX,walmart.com
 DOMAIN-SUFFIX,ebay.com
 DOMAIN-SUFFIX,bestbuy.com
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,anytimemailbox.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,meta.com
@@ -20,3 +19,9 @@ DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
